@@ -18,7 +18,7 @@ Experimento: **Análise no Domínio da Frequência**
 
 <hr>
 
-Este repositório contém a resolução do experimento sobre Análise no Domínio da Frequência, da disciplina **PEN2244 - Sinais e Sistemas**, ministrada pelo **Prof. Pedro Thiago Valério de Souza** no Centro Multidisciplinar de Pau dos Ferros da **Universidade Federal Rural do Semi-Árido (UFERSA)**.
+Este repositório contém a resolução do experimento sobre Análise no Domínio da Frequência, da disciplina **PEX1259 - Sinais e Sistemas**, ministrada pelo **Prof. Pedro Thiago Valério de Souza** no Centro Multidisciplinar de Pau dos Ferros da **Universidade Federal Rural do Semi-Árido (UFERSA)**.
 
 O experimento visa o projeto de um multivibrador estável utilizando o LM555 e o levantamento da curva de resposta em frequência de um filtro passa-baixas.
 
