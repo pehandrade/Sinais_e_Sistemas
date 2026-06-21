@@ -11,7 +11,6 @@ Experimento: **Análise no Domínio da Frequência**
 | Discente                            | Matrícula  |
 | :---:                               | :---:      |
 | ELTON CAIO VIEIRA DE LIMA           | 2020010673 |
-| NATTAN FERREIRA LOPES               | 2023011521 |
 | PEDRO HENRIQUE ANDRADE DA CONCEICAO | 2023011588 |
 | PEDRO LUCAS DE SOUSA FERREIRA       | 2023011547 |
 
